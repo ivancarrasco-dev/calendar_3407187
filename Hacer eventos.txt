@@ -1,0 +1,7 @@
+Hacer eventos
+
+1. nombre
+2. descripción
+3. hora cojones
+4. icono
+5. responsive
